@@ -46,7 +46,7 @@ The purpose of this project was to create a binary classifier that can predict w
 ![image](https://github.com/brittnibresee/Alphabet_Soup_Deep_Learning/assets/111385077/6007720f-2406-489f-9208-b9f1c6da5177)
 
 
-Summary: My recommendation for working with this model would be to break down each step further. Given more time you could adjust the columns, layers, and functions until you've hopefully achieved the desired goal. Another method would be to use a different supervised learning model to see if achieving the desired goal is more efficient. 
+## Summary: My recommendation for working with this model would be to break down each step further. Given more time you could adjust the columns, layers, and functions until you've hopefully achieved the desired goal. Another method would be to use a different supervised learning model to see if achieving the desired goal is more efficient. 
 
 
 
