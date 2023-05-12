@@ -6,7 +6,7 @@ The purpose of this project was to create a binary classifier that can predict w
 
 ## Data Processing
 1.The model targets the IS-SUCCESSFUL column using the below variables
-*INSERT IMAGE*
+![image](https://github.com/brittnibresee/Alphabet_Soup_Deep_Learning/assets/111385077/5819b081-1a69-42d4-99d8-04f5a2800246)
 
 2.What variable(s) are the features for your model?
 - APPLICATION TYPE & CLASSIFICATION
